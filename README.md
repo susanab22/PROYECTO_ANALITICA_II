@@ -1,6 +1,6 @@
 # PROYECTO_ANALITICA_II
 
-3. Desarrollo del caso de estudio
+**3. Desarrollo del caso de estudio**
    
 Se deben considerar lo siguientes puntos para el desarrollo del caso de estudio:
 
