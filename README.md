@@ -24,4 +24,4 @@ h. Afinamiento de hiperparámetros
 
 i. Evaluación y análisis del mejor modelo
 
-j. Conclusiones finales y recomendaciones
+j. Conclusiones finales y recomendaciones.
